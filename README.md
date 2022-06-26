@@ -1,4 +1,4 @@
-### RichSlowly文档 👋
+### RichSlowly -- 策略定投、幸福人生 👋
 
 <!--
 **richslowly/richslowly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
